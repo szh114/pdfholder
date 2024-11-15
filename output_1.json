@@ -1,0 +1,1486 @@
+[
+    {
+        "name": "U_0_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_0_0:0.0_20.0_0.0_0.0_-0.0_0.0:B_0",
+                "target": "B_0"
+            },
+            {
+                "name": "U_0_0:0.0_0.0_0.0_0.0_-0.0_0.0:L_U_0_0_U_10_0",
+                "target": "L_U_0_0_U_10_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_0_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_0_1:3.1416_10.0_17.3205_0.0_1.0471_-3.1416:B_0",
+                "target": "B_0"
+            },
+            {
+                "name": "U_0_1:-3.1416_0.0_0.0_0.0_-0.0_-0.0:L_U_0_1_U_6_0",
+                "target": "L_U_0_1_U_6_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_0_2",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_0_2:2.6779_22.3607_0.0_0.0_-0.0_-2.6779:B_0",
+                "target": "B_0"
+            },
+            {
+                "name": "U_0_2:0.0_0.0_0.0_0.0_-0.0_-0.0:L_U_0_2_U_8_0",
+                "target": "L_U_0_2_U_8_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_0_3",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_0_3:0.7854_14.1421_-17.3205_0.0_1.0471_-0.7854:B_0",
+                "target": "B_0"
+            },
+            {
+                "name": "U_0_3:-3.1416_0.0_0.0_0.0_-0.0_-0.0:L_U_0_3_U_1_0",
+                "target": "L_U_0_3_U_1_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_0_4",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_0_4:0.7854_14.1421_17.3205_0.0_-1.0471_-0.7854:B_0",
+                "target": "B_0"
+            },
+            {
+                "name": "U_0_4:0.0_0.0_0.0_0.0_-0.0_0.0:L_U_0_4_U_12_0",
+                "target": "L_U_0_4_U_12_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_0_5",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_0_5:1.5708_5.0_0.0_0.0_-0.5236_-1.5708:B_0",
+                "target": "B_0"
+            },
+            {
+                "name": "U_0_5:0.0_0.0_0.0_0.0_-0.0001_0.0:L_U_0_5_U_4_0",
+                "target": "L_U_0_5_U_4_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "B_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "B_0:0.0_20.0_0.0_0.0_-0.0_0.0:U_0_0",
+                "target": "U_0_0"
+            },
+            {
+                "name": "B_0:3.1416_10.0_17.3205_0.0_1.0471_-3.1416:U_0_1",
+                "target": "U_0_1"
+            },
+            {
+                "name": "B_0:2.6779_22.3607_0.0_0.0_-0.0_-2.6779:U_0_2",
+                "target": "U_0_2"
+            },
+            {
+                "name": "B_0:0.7854_14.1421_-17.3205_0.0_1.0471_-0.7854:U_0_3",
+                "target": "U_0_3"
+            },
+            {
+                "name": "B_0:0.7854_14.1421_17.3205_0.0_-1.0471_-0.7854:U_0_4",
+                "target": "U_0_4"
+            },
+            {
+                "name": "B_0:1.5708_5.0_0.0_0.0_-0.5236_-1.5708:U_0_5",
+                "target": "U_0_5"
+            }
+        ],
+        "background_color": "#9ED5FF",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_1_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_1_0:-3.1416_10.0_-0.0_0.0_-0.0_-1.5708:L_1",
+                "target": "L_1"
+            },
+            {
+                "name": "U_1_0:3.1416_0.0_0.0_-3.1416_-1.5708_0.0:L_U_0_3_U_1_0",
+                "target": "L_U_0_3_U_1_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_1:-3.1416_10.0_-0.0_0.0_-0.0_-1.5708:U_1_0",
+                "target": "U_1_0"
+            },
+            {
+                "name": "L_1:-0.0_10.0_0.0_0.0_-0.0_-1.5708:P_1_1_P_2_0",
+                "target": "P_1_1_P_2_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_2_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_2_1:-0.0_10.0_-0.0_0.0_-0.0_1.5708:L_2",
+                "target": "L_2"
+            },
+            {
+                "name": "S_2_1:3.1416_0.0_0.0_0.0_-0.0_-3.1416:L_S_2_1_S_2_1_1",
+                "target": "L_S_2_1_S_2_1_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_2",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_2:-0.0_10.0_-0.0_0.0_-0.0_1.5708:S_2_1",
+                "target": "S_2_1"
+            },
+            {
+                "name": "L_2:-3.1416_10.0_0.0_0.0_-0.0_1.5708:P_1_1_P_2_0",
+                "target": "P_1_1_P_2_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_3_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_3_0:0.0_2.5_-4.3301_1.0472_-0.0_1.5708:O_3",
+                "target": "O_3"
+            },
+            {
+                "name": "S_3_0:-3.1416_0.0_-0.0_-3.1416_1.5708_0.0:L_S_2_1_1_S_3_0",
+                "target": "L_S_2_1_1_S_3_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_3_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_3_1:0.0_2.5_4.3301_-1.0472_-0.0_1.5708:O_3",
+                "target": "O_3"
+            },
+            {
+                "name": "S_3_1:-0.0_0.0_0.0_0.0_1.5708_0.0:L_S_3_1_1_S_13_1",
+                "target": "L_S_3_1_1_S_13_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_3_2",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_3_2:3.1416_5.0_0.0_0.0_-0.0_1.5708:O_3",
+                "target": "O_3"
+            },
+            {
+                "name": "S_3_2:-3.1416_0.0_0.0_-3.1416_1.5708_0.0:L_S_3_2_1_S_9_1",
+                "target": "L_S_3_2_1_S_9_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_3_3",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_3_3:-1.1071_11.1803_0.0_0.0_-0.0_2.6779:O_3",
+                "target": "O_3"
+            },
+            {
+                "name": "S_3_3:0.0_0.0_-0.0_0.0_1.5708_0.0:L_S_3_3_1_S_11_1",
+                "target": "L_S_3_3_1_S_11_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_3_4",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_3_4:-1.8158_10.3078_4.3301_-2.0944_-0.0_-2.8966:O_3",
+                "target": "O_3"
+            },
+            {
+                "name": "S_3_4:0.0_0.0_0.0_0.0_1.5708_0.0:L_S_3_4_1_S_7_1",
+                "target": "L_S_3_4_1_S_7_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_3_5",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_3_5:-1.5708_10.0_-0.0_0.0174_0.5236_-1.5708:O_3",
+                "target": "O_3"
+            },
+            {
+                "name": "U_3_5:3.1416_0.0_0.0_-3.1416_-1.5708_0.0:L_U_3_5_U_5_1",
+                "target": "L_U_3_5_U_5_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "O_3",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "O_3:0.0_2.5_-4.3301_1.0472_-0.0_1.5708:S_3_0",
+                "target": "S_3_0"
+            },
+            {
+                "name": "O_3:0.0_2.5_4.3301_-1.0472_-0.0_1.5708:S_3_1",
+                "target": "S_3_1"
+            },
+            {
+                "name": "O_3:3.1416_5.0_0.0_0.0_-0.0_1.5708:S_3_2",
+                "target": "S_3_2"
+            },
+            {
+                "name": "O_3:-1.1071_11.1803_0.0_0.0_-0.0_2.6779:S_3_3",
+                "target": "S_3_3"
+            },
+            {
+                "name": "O_3:-1.8158_10.3078_4.3301_-2.0944_-0.0_-2.8966:S_3_4",
+                "target": "S_3_4"
+            },
+            {
+                "name": "O_3:-1.5708_10.0_-0.0_0.0174_0.5236_-1.5708:U_3_5",
+                "target": "U_3_5"
+            }
+        ],
+        "background_color": "#99CC49",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_4_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_4_0:-3.1416_5.0_-0.0_0.0_-0.0_-1.5708:L_4",
+                "target": "L_4"
+            },
+            {
+                "name": "U_4_0:-3.1416_0.0_-0.0_0.0_1.5708_0.0:L_U_0_5_U_4_0",
+                "target": "L_U_0_5_U_4_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_4",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_4:-3.1416_5.0_-0.0_0.0_-0.0_-1.5708:U_4_0",
+                "target": "U_4_0"
+            },
+            {
+                "name": "L_4:0.0_5.0_-0.0_0.0_-0.0_-1.5708:P_4_1_P_5_0",
+                "target": "P_4_1_P_5_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_5_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_5_1:-0.0_5.0_-0.0_0.0_-0.0_-1.5708:L_5",
+                "target": "L_5"
+            },
+            {
+                "name": "U_5_1:-3.1416_0.0_0.0_-0.0_-0.0001_-0.0:L_U_3_5_U_5_1",
+                "target": "L_U_3_5_U_5_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_5",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_5:-0.0_5.0_-0.0_0.0_-0.0_-1.5708:U_5_1",
+                "target": "U_5_1"
+            },
+            {
+                "name": "L_5:3.1416_10.0_0.0_0.0_-0.0_1.5708:P_4_1_P_5_0",
+                "target": "P_4_1_P_5_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_6_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_6_0:-3.1416_10.0_0.0_0.0_-0.0_-1.5708:L_6",
+                "target": "L_6"
+            },
+            {
+                "name": "U_6_0:3.1416_0.0004_-0.0055_-3.1416_-1.5708_0.0:L_U_0_1_U_6_0",
+                "target": "L_U_0_1_U_6_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_6",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_6:-3.1416_10.0_0.0_0.0_-0.0_-1.5708:U_6_0",
+                "target": "U_6_0"
+            },
+            {
+                "name": "L_6:-0.0_10.0_-0.0_0.0_-0.0_-1.5708:P_6_1_P_7_0",
+                "target": "P_6_1_P_7_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_7_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_7_1:0.0_10.0_-0.0_0.0_-0.0_1.5708:L_7",
+                "target": "L_7"
+            },
+            {
+                "name": "S_7_1:-3.1416_0.0_0.0_0.0_-0.0_3.1416:L_S_3_4_S_3_4_1",
+                "target": "L_S_3_4_S_3_4_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_7",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_7:0.0_10.0_-0.0_0.0_-0.0_1.5708:S_7_1",
+                "target": "S_7_1"
+            },
+            {
+                "name": "L_7:-3.1416_10.0_-0.0_0.0_-0.0_1.5708:P_6_1_P_7_0",
+                "target": "P_6_1_P_7_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_8_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_8_0:-3.1416_10.0_-0.0_0.0_-0.0_-1.5708:L_8",
+                "target": "L_8"
+            },
+            {
+                "name": "U_8_0:-3.1416_0.0_-0.0_0.0_1.5708_0.0:L_U_0_2_U_8_0",
+                "target": "L_U_0_2_U_8_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_8",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_8:-3.1416_10.0_-0.0_0.0_-0.0_-1.5708:U_8_0",
+                "target": "U_8_0"
+            },
+            {
+                "name": "L_8:0.0_10.0_0.0_0.0_-0.0_-1.5708:P_8_1_P_9_0",
+                "target": "P_8_1_P_9_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_9_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_9_1:-0.0_10.0_0.0_0.0_-0.0_1.5708:L_9",
+                "target": "L_9"
+            },
+            {
+                "name": "S_9_1:0.0_0.0_0.0_0.0_-0.0_0.0:L_S_3_2_S_3_2_1",
+                "target": "L_S_3_2_S_3_2_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_9",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_9:-0.0_10.0_0.0_0.0_-0.0_1.5708:S_9_1",
+                "target": "S_9_1"
+            },
+            {
+                "name": "L_9:-3.1416_10.0_0.0_0.0_-0.0_1.5708:P_8_1_P_9_0",
+                "target": "P_8_1_P_9_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_10_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_10_0:-3.1416_10.0_-0.0_0.0_-0.0_-1.5708:L_10",
+                "target": "L_10"
+            },
+            {
+                "name": "U_10_0:-3.1416_0.0056_0.0064_0.0_1.5708_0.0:L_U_0_0_U_10_0",
+                "target": "L_U_0_0_U_10_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_10",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_10:-3.1416_10.0_-0.0_0.0_-0.0_-1.5708:U_10_0",
+                "target": "U_10_0"
+            },
+            {
+                "name": "L_10:-0.0_10.0_-0.0_0.0_-0.0_-1.5708:P_10_1_P_11_0",
+                "target": "P_10_1_P_11_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_11_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_11_1:0.0_10.0_-0.0_0.0_-0.0_1.5708:L_11",
+                "target": "L_11"
+            },
+            {
+                "name": "S_11_1:0.0_0.0_0.0_0.0_-0.0_0.0:L_S_3_3_S_3_3_1",
+                "target": "L_S_3_3_S_3_3_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_11",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_11:0.0_10.0_-0.0_0.0_-0.0_1.5708:S_11_1",
+                "target": "S_11_1"
+            },
+            {
+                "name": "L_11:3.1416_10.0_0.0_0.0_-0.0_1.5708:P_10_1_P_11_0",
+                "target": "P_10_1_P_11_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "U_12_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "U_12_0:3.1416_10.0_-0.0_0.0_-0.0_-1.5708:L_12",
+                "target": "L_12"
+            },
+            {
+                "name": "U_12_0:0.0_0.0054_-0.0047_-3.1416_1.5708_0.0:L_U_0_4_U_12_0",
+                "target": "L_U_0_4_U_12_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_12",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_12:3.1416_10.0_-0.0_0.0_-0.0_-1.5708:U_12_0",
+                "target": "U_12_0"
+            },
+            {
+                "name": "L_12:-0.0_10.0_-0.0_0.0_-0.0_-1.5708:P_12_1_P_13_0",
+                "target": "P_12_1_P_13_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_13_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_13_1:-0.0_10.0_0.0_0.0_-0.0_1.5708:L_13",
+                "target": "L_13"
+            },
+            {
+                "name": "S_13_1:3.1416_0.0_0.0_0.0_-0.0_-3.1416:L_S_3_1_S_3_1_1",
+                "target": "L_S_3_1_S_3_1_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_13",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_13:-0.0_10.0_0.0_0.0_-0.0_1.5708:S_13_1",
+                "target": "S_13_1"
+            },
+            {
+                "name": "L_13:-3.1416_10.0_-0.0_0.0_-0.0_1.5708:P_12_1_P_13_0",
+                "target": "P_12_1_P_13_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_U_0_0_U_10_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_U_0_0_U_10_0:0.0_0.0_0.0_0.0_-0.0_0.0:U_0_0",
+                "target": "U_0_0"
+            },
+            {
+                "name": "L_U_0_0_U_10_0:-3.1416_0.0056_0.0064_0.0_1.5708_0.0:U_10_0",
+                "target": "U_10_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_U_0_1_U_6_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_U_0_1_U_6_0:-3.1416_0.0_0.0_0.0_-0.0_-0.0:U_0_1",
+                "target": "U_0_1"
+            },
+            {
+                "name": "L_U_0_1_U_6_0:3.1416_0.0004_-0.0055_-3.1416_-1.5708_0.0:U_6_0",
+                "target": "U_6_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_U_0_2_U_8_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_U_0_2_U_8_0:0.0_0.0_0.0_0.0_-0.0_-0.0:U_0_2",
+                "target": "U_0_2"
+            },
+            {
+                "name": "L_U_0_2_U_8_0:-3.1416_0.0_-0.0_0.0_1.5708_0.0:U_8_0",
+                "target": "U_8_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_U_0_3_U_1_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_U_0_3_U_1_0:-3.1416_0.0_0.0_0.0_-0.0_-0.0:U_0_3",
+                "target": "U_0_3"
+            },
+            {
+                "name": "L_U_0_3_U_1_0:3.1416_0.0_0.0_-3.1416_-1.5708_0.0:U_1_0",
+                "target": "U_1_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_U_0_4_U_12_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_U_0_4_U_12_0:0.0_0.0_0.0_0.0_-0.0_0.0:U_0_4",
+                "target": "U_0_4"
+            },
+            {
+                "name": "L_U_0_4_U_12_0:0.0_0.0054_-0.0047_-3.1416_1.5708_0.0:U_12_0",
+                "target": "U_12_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_U_0_5_U_4_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_U_0_5_U_4_0:0.0_0.0_0.0_0.0_-0.0001_0.0:U_0_5",
+                "target": "U_0_5"
+            },
+            {
+                "name": "L_U_0_5_U_4_0:-3.1416_0.0_-0.0_0.0_1.5708_0.0:U_4_0",
+                "target": "U_4_0"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "P_1_1_P_2_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "P_1_1_P_2_0:-0.0_10.0_0.0_0.0_-0.0_-1.5708:L_1",
+                "target": "L_1"
+            },
+            {
+                "name": "P_1_1_P_2_0:-3.1416_10.0_0.0_0.0_-0.0_1.5708:L_2",
+                "target": "L_2"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_2_1_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_2_1_1:3.1416_0.0_0.0_-1.5708_-0.0_-3.1416:L_S_2_1_S_2_1_1",
+                "target": "L_S_2_1_S_2_1_1"
+            },
+            {
+                "name": "S_2_1_1:-3.1416_0.0_-0.0_0.0_-0.0_3.1416:L_S_2_1_1_S_3_0",
+                "target": "L_S_2_1_1_S_3_0"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_S_2_1_S_2_1_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_S_2_1_S_2_1_1:3.1416_0.0_0.0_0.0_-0.0_-3.1416:S_2_1",
+                "target": "S_2_1"
+            },
+            {
+                "name": "L_S_2_1_S_2_1_1:3.1416_0.0_0.0_-1.5708_-0.0_-3.1416:S_2_1_1",
+                "target": "S_2_1_1"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_S_2_1_1_S_3_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_S_2_1_1_S_3_0:-3.1416_0.0_-0.0_-3.1416_1.5708_0.0:S_3_0",
+                "target": "S_3_0"
+            },
+            {
+                "name": "L_S_2_1_1_S_3_0:-3.1416_0.0_-0.0_0.0_-0.0_3.1416:S_2_1_1",
+                "target": "S_2_1_1"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_3_1_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_3_1_1:3.1416_0.0_0.0_-1.5708_-0.0_-3.1416:L_S_3_1_S_3_1_1",
+                "target": "L_S_3_1_S_3_1_1"
+            },
+            {
+                "name": "S_3_1_1:-0.0_0.0_0.0_0.0_-0.0_0.0:L_S_3_1_1_S_13_1",
+                "target": "L_S_3_1_1_S_13_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_S_3_1_S_3_1_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_S_3_1_S_3_1_1:3.1416_0.0_0.0_0.0_-0.0_-3.1416:S_13_1",
+                "target": "S_13_1"
+            },
+            {
+                "name": "L_S_3_1_S_3_1_1:3.1416_0.0_0.0_-1.5708_-0.0_-3.1416:S_3_1_1",
+                "target": "S_3_1_1"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_S_3_1_1_S_13_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_S_3_1_1_S_13_1:-0.0_0.0_0.0_0.0_1.5708_0.0:S_3_1",
+                "target": "S_3_1"
+            },
+            {
+                "name": "L_S_3_1_1_S_13_1:-0.0_0.0_0.0_0.0_-0.0_0.0:S_3_1_1",
+                "target": "S_3_1_1"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_3_2_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_3_2_1:0.0_0.0_0.0_-1.5708_-0.0_0.0:L_S_3_2_S_3_2_1",
+                "target": "L_S_3_2_S_3_2_1"
+            },
+            {
+                "name": "S_3_2_1:-3.1416_0.0_0.0_0.0_-0.0_3.1416:L_S_3_2_1_S_9_1",
+                "target": "L_S_3_2_1_S_9_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_S_3_2_S_3_2_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_S_3_2_S_3_2_1:0.0_0.0_0.0_0.0_-0.0_0.0:S_9_1",
+                "target": "S_9_1"
+            },
+            {
+                "name": "L_S_3_2_S_3_2_1:0.0_0.0_0.0_-1.5708_-0.0_0.0:S_3_2_1",
+                "target": "S_3_2_1"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_S_3_2_1_S_9_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_S_3_2_1_S_9_1:-3.1416_0.0_0.0_-3.1416_1.5708_0.0:S_3_2",
+                "target": "S_3_2"
+            },
+            {
+                "name": "L_S_3_2_1_S_9_1:-3.1416_0.0_0.0_0.0_-0.0_3.1416:S_3_2_1",
+                "target": "S_3_2_1"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_3_3_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_3_3_1:0.0_0.0_0.0_-1.5708_-0.0_0.0:L_S_3_3_S_3_3_1",
+                "target": "L_S_3_3_S_3_3_1"
+            },
+            {
+                "name": "S_3_3_1:0.0_0.0_-0.0_0.0_-0.0_0.0:L_S_3_3_1_S_11_1",
+                "target": "L_S_3_3_1_S_11_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_S_3_3_S_3_3_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_S_3_3_S_3_3_1:0.0_0.0_0.0_0.0_-0.0_0.0:S_11_1",
+                "target": "S_11_1"
+            },
+            {
+                "name": "L_S_3_3_S_3_3_1:0.0_0.0_0.0_-1.5708_-0.0_0.0:S_3_3_1",
+                "target": "S_3_3_1"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_S_3_3_1_S_11_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_S_3_3_1_S_11_1:0.0_0.0_-0.0_0.0_1.5708_0.0:S_3_3",
+                "target": "S_3_3"
+            },
+            {
+                "name": "L_S_3_3_1_S_11_1:0.0_0.0_-0.0_0.0_-0.0_0.0:S_3_3_1",
+                "target": "S_3_3_1"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "S_3_4_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "S_3_4_1:-3.1416_0.0_0.0_-1.5708_-0.0_3.1416:L_S_3_4_S_3_4_1",
+                "target": "L_S_3_4_S_3_4_1"
+            },
+            {
+                "name": "S_3_4_1:0.0_0.0_0.0_0.0_-0.0_0.0:L_S_3_4_1_S_7_1",
+                "target": "L_S_3_4_1_S_7_1"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_S_3_4_S_3_4_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_S_3_4_S_3_4_1:-3.1416_0.0_0.0_0.0_-0.0_3.1416:S_7_1",
+                "target": "S_7_1"
+            },
+            {
+                "name": "L_S_3_4_S_3_4_1:-3.1416_0.0_0.0_-1.5708_-0.0_3.1416:S_3_4_1",
+                "target": "S_3_4_1"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_S_3_4_1_S_7_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_S_3_4_1_S_7_1:0.0_0.0_0.0_0.0_1.5708_0.0:S_3_4",
+                "target": "S_3_4"
+            },
+            {
+                "name": "L_S_3_4_1_S_7_1:0.0_0.0_0.0_0.0_-0.0_0.0:S_3_4_1",
+                "target": "S_3_4_1"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "L_U_3_5_U_5_1",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "L_U_3_5_U_5_1:3.1416_0.0_0.0_-3.1416_-1.5708_0.0:U_3_5",
+                "target": "U_3_5"
+            },
+            {
+                "name": "L_U_3_5_U_5_1:-3.1416_0.0_0.0_-0.0_-0.0001_-0.0:U_5_1",
+                "target": "U_5_1"
+            }
+        ],
+        "background_color": "#7270D9",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "P_4_1_P_5_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "P_4_1_P_5_0:0.0_5.0_-0.0_0.0_-0.0_-1.5708:L_4",
+                "target": "L_4"
+            },
+            {
+                "name": "P_4_1_P_5_0:3.1416_10.0_0.0_0.0_-0.0_1.5708:L_5",
+                "target": "L_5"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "P_6_1_P_7_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "P_6_1_P_7_0:-0.0_10.0_-0.0_0.0_-0.0_-1.5708:L_6",
+                "target": "L_6"
+            },
+            {
+                "name": "P_6_1_P_7_0:-3.1416_10.0_-0.0_0.0_-0.0_1.5708:L_7",
+                "target": "L_7"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "P_8_1_P_9_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "P_8_1_P_9_0:0.0_10.0_0.0_0.0_-0.0_-1.5708:L_8",
+                "target": "L_8"
+            },
+            {
+                "name": "P_8_1_P_9_0:-3.1416_10.0_0.0_0.0_-0.0_1.5708:L_9",
+                "target": "L_9"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "P_10_1_P_11_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "P_10_1_P_11_0:-0.0_10.0_-0.0_0.0_-0.0_-1.5708:L_10",
+                "target": "L_10"
+            },
+            {
+                "name": "P_10_1_P_11_0:3.1416_10.0_0.0_0.0_-0.0_1.5708:L_11",
+                "target": "L_11"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    },
+    {
+        "name": "P_12_1_P_13_0",
+        "properties": [
+            {
+                "name": "name",
+                "type": "single_string"
+            }
+        ],
+        "relations": [
+            {
+                "name": "P_12_1_P_13_0:-0.0_10.0_-0.0_0.0_-0.0_-1.5708:L_12",
+                "target": "L_12"
+            },
+            {
+                "name": "P_12_1_P_13_0:-3.1416_10.0_-0.0_0.0_-0.0_1.5708:L_13",
+                "target": "L_13"
+            }
+        ],
+        "background_color": "#2C96E6",
+        "icon": "disable",
+        "is_actuator": false
+    }
+]
